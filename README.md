@@ -1,5 +1,5 @@
 # 6 different Neural Networks projects
-
+- These are projects in which I focused on learning PyTorch framework in the context of NLP. These are really helpful projects to get started with deep learning. After doing these projects PyTorch framework becomes really intuitive and it is easy to continue with more challenging tasks. 
 ## Project 1: Twitter Sentiment Classification 
 - Tweets are classified on each of three classes: positive, neutral, negative
 - Logistic Regression used as a classifier
